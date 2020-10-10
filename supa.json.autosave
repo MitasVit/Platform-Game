@@ -1275,6 +1275,87 @@
         "name": "NewFile-1-13.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-11 - kopie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-11 - kopie.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-11-kopie-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-11-kopie-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject20-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject20-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2-1-2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -50093,18 +50174,18 @@
       ]
     },
     {
-      "b": 111,
+      "b": 146,
       "disableInputWhenNotFocused": true,
       "mangledName": "Level11",
       "name": "Level11",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 111,
+      "r": 146,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 111,
+      "v": 146,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -50116,7 +50197,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.058
+        "zoomFactor": 0.25
       },
       "objectsGroups": [
         {
@@ -50170,8 +50251,8 @@
           "name": "Atka",
           "persistentUuid": "bb4d5388-114e-4e74-b070-689615a54af6",
           "width": 0,
-          "x": 228,
-          "y": 275,
+          "x": -6348,
+          "y": 96,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -50186,8 +50267,8 @@
           "name": "Healt",
           "persistentUuid": "2667c07d-8fec-48b0-98f2-f7253269b72d",
           "width": 128,
-          "x": 46,
-          "y": 19,
+          "x": 28,
+          "y": 9,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -50202,9 +50283,489 @@
           "name": "superduper",
           "persistentUuid": "372b2aa3-5a22-44bc-b072-6e05287bb26a",
           "width": 76,
-          "x": 1267,
-          "y": 37,
+          "x": 1248,
+          "y": 18,
           "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "platformicka",
+          "persistentUuid": "1b871a23-a6b5-41f5-9f16-b5c502194db5",
+          "width": 7847,
+          "x": -6589,
+          "y": 446,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 651,
+          "layer": "",
+          "locked": false,
+          "name": "Zed",
+          "persistentUuid": "ff9d7265-5b53-4cbd-b350-29a866364658",
+          "width": 59,
+          "x": -6645,
+          "y": -138,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "1857ada9-23e0-4e09-99de-992075865636",
+          "width": 0,
+          "x": -6645,
+          "y": -191,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 2762,
+          "layer": "Layer2",
+          "locked": false,
+          "name": "Pozadi",
+          "persistentUuid": "fc37e03c-ec64-4523-88d3-41660d7afa37",
+          "width": 9866,
+          "x": -7417,
+          "y": -1441,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 133.877,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "571f420d-8b8f-4f6f-bb71-395b07a7f3b9",
+          "width": 0,
+          "x": -6601,
+          "y": -157,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "4929e121-e6aa-4c04-81d3-108ac5fa42a1",
+          "width": 0,
+          "x": -5230,
+          "y": 386,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "f33c2b0f-1d3a-4e1e-b6bd-afad6fe3938f",
+          "width": 0,
+          "x": -5172,
+          "y": 386,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "c81abd13-293a-4753-9d4f-e1fa44616a83",
+          "width": 0,
+          "x": -3110,
+          "y": 386,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "6672083c-1196-4981-81d0-41f99c050e74",
+          "width": 0,
+          "x": -3054,
+          "y": 386,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "f9413e61-5482-43e2-8528-aed64bb53def",
+          "width": 126,
+          "x": -4561,
+          "y": 335,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "da9885ce-a4fc-4c6e-a1bd-4c8e231b9008",
+          "width": 126,
+          "x": -3640,
+          "y": 335,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "528d968d-33df-4cae-ad93-c3caef99dccd",
+          "width": 126,
+          "x": -2291,
+          "y": 341,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "539089ba-059b-49c0-bf81-2572ccddb000",
+          "width": 126,
+          "x": -5893,
+          "y": 335,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "d36affdb-cf60-42a7-b8fb-dee806bac8be",
+          "width": 0,
+          "x": -1516,
+          "y": 386,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "4179d572-852a-41f4-9bdf-af410f0db1a7",
+          "width": 0,
+          "x": -1460,
+          "y": 386,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "88e2e04d-fd09-402c-b2c7-b3bf53158e88",
+          "width": 126,
+          "x": -854,
+          "y": 335,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 66,
+          "layer": "",
+          "locked": false,
+          "name": "platformicka",
+          "persistentUuid": "ebc0dc9a-7e39-45ea-900b-7f7bfa5f9ae3",
+          "width": 1150,
+          "x": -6372,
+          "y": 54,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 71,
+          "layer": "",
+          "locked": false,
+          "name": "platformicka",
+          "persistentUuid": "db4be365-ee23-475d-b33d-c97493dd0a29",
+          "width": 453,
+          "x": -4889,
+          "y": -81,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "1c6d5469-10b8-4a18-a205-4b0525820b12",
+          "width": 126,
+          "x": -4750,
+          "y": -198,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "6bc94fa2-f7d9-4ca4-a999-cbd76af1fc4d",
+          "width": 126,
+          "x": -5912,
+          "y": -58,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 71,
+          "layer": "",
+          "locked": false,
+          "name": "platformicka",
+          "persistentUuid": "2e1de482-0881-4d91-9957-ef7fdb65d3c2",
+          "width": 673,
+          "x": -4170,
+          "y": -193,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 120,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "f0a63375-6291-44da-b42c-36ac51a03241",
+          "width": 126,
+          "x": -4075,
+          "y": -303,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike1",
+          "persistentUuid": "f0e11b69-e68f-4cf9-8977-14bd95dec8cd",
+          "width": 0,
+          "x": -5637,
+          "y": -10,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ziskaniklice",
+          "persistentUuid": "440b22c4-d040-4688-913c-1d523d4c7d8c",
+          "width": 0,
+          "x": -3713,
+          "y": -275,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "superpředek",
+          "locked": false,
+          "name": "klic",
+          "persistentUuid": "eaa7980d-2156-4051-9e18-f37d6ca75bb8",
+          "width": 0,
+          "x": 26,
+          "y": 668,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 154,
+          "layer": "",
+          "locked": false,
+          "name": "ladder",
+          "persistentUuid": "e4471631-4b9c-4ebd-88e7-449ad14f9122",
+          "width": 71,
+          "x": -6584,
+          "y": 34,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "dvere",
+          "persistentUuid": "607b0dd0-46bc-48da-8dd5-fcca6b574699",
+          "width": 0,
+          "x": -332,
+          "y": 325,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 231,
+          "layer": "",
+          "locked": false,
+          "name": "Zed",
+          "persistentUuid": "9e47854e-b3e3-4b15-bcd1-2db9d971c130",
+          "width": 62,
+          "x": -331,
+          "y": 93,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": -125.942,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike1",
+          "persistentUuid": "1cca3945-6dea-46ca-b88c-88d8c3d8541c",
+          "width": 0,
+          "x": -383,
+          "y": 86,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "platformicka",
+          "persistentUuid": "a2de8a3d-67d6-4bc1-8b42-23b6d0ef33e6",
+          "width": 2070,
+          "x": -270,
+          "y": 91,
+          "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -50224,13 +50785,13 @@
           ],
           "behaviors": [
             {
+              "gravity": 1100,
+              "jumpSpeed": 650,
+              "ladderClimbingSpeed": 350,
+              "maxFallingSpeed": 800,
+              "maxSpeed": 600,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "gravity": 300,
-              "jumpSpeed": 550,
-              "ladderClimbingSpeed": 250,
-              "maxFallingSpeed": 750,
-              "maxSpeed": 700,
               "acceleration": 1500,
               "canGrabPlatforms": true,
               "deceleration": 1500,
@@ -52256,7 +52817,7 @@
           "height": 32,
           "name": "platformicka",
           "tags": "",
-          "texture": "NewFile-1-11.png",
+          "texture": "NewFile-1-11-kopie-1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -52267,45 +52828,6 @@
               "canBeGrabbed": true,
               "platformType": "NormalPlatform",
               "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "name": "kamen",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "hnvovakoule",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "hnvovakoule-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -52736,6 +53258,112 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "Pozadi",
+          "tags": "",
+          "texture": "NewFile-1-14.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewObject18",
+          "tags": "",
+          "texture": "NewFile-1-15.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewObject19",
+          "tags": "",
+          "texture": "NewFile-1-16.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "dvere",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject20-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "2-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -52915,7 +53543,7 @@
                   },
                   "parameters": [
                     "",
-                    "\"Level10\""
+                    "\"Level11\""
                   ],
                   "subInstructions": []
                 }
@@ -53305,7 +53933,7 @@
                   "parameters": [
                     "Unlocked levels",
                     "=",
-                    "11"
+                    "12"
                   ],
                   "subInstructions": []
                 },
@@ -54061,123 +54689,16 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Atka",
-                "platformicka",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Hnevomrak",
-                "\"lokoko\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "kamen",
-                "Hnevomrak.X()",
-                "Hnevomrak.Y()",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "AddForceXY"
-              },
-              "parameters": [
-                "kamen",
-                "0",
-                "-600",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlayAnimation"
-              },
-              "parameters": [
-                "Hnevomrak"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "kamen",
-                "hnevomrak56.X()",
-                "hnevomrak56.Y()",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Atka",
-                "kamen",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlatformBehavior::MaxSpeed"
-              },
-              "parameters": [
-                "Atka",
-                "PlatformerObject",
-                "=",
-                "50"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -54304,6 +54825,17 @@
       ],
       "layers": [
         {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 1635413840,
+          "ambientLightColorR": 100663296,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Layer2",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
           "ambientLightColorB": 16,
           "ambientLightColorG": 7967408,
           "ambientLightColorR": 98,
@@ -54343,17 +54875,6 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "Předek",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 52,
-          "ambientLightColorG": 2,
-          "ambientLightColorR": 59,
-          "followBaseLayerCamera": true,
-          "isLightingLayer": true,
-          "name": "Lighting",
           "visibility": true,
           "cameras": [],
           "effects": []
