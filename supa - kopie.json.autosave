@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\Uzivatel\\Documents\\GDevelop projects\\PlatformGame 1.11\\supa.json",
+    "projectFile": "C:\\Users\\Uzivatel\\Documents\\GDevelop projects\\PlatformGame 1.11\\supa - kopie.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "",
     "useExternalSourceFiles": false,
@@ -54,7 +54,7 @@
       "ios-icon-80": ""
     },
     "loadingScreen": {
-      "showGDevelopSplash": true
+      "showGDevelopSplash": false
     },
     "extensionProperties": [],
     "extensions": [
@@ -1800,6 +1800,51 @@
         "metadata": "",
         "name": "plasdrip.ttf",
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2-1-3 - kopie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2-1-3 - kopie.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Samův Atka (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Samův Atka (1).png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SamvAtka1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SamvAtka1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "area 51 gate 2d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "area 51 gate 2d.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1849,7 +1894,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.37
+        "zoomFactor": 0.442
       },
       "objectsGroups": [],
       "variables": [],
@@ -3275,7 +3320,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.424
+        "zoomFactor": 0.376
       },
       "objectsGroups": [],
       "variables": [],
@@ -3398,11 +3443,11 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "LevelChooseWhite",
+          "name": "LevelChooseRed",
           "persistentUuid": "1c5ddcbc-b527-40df-a770-aa0fe7e0c648",
           "width": 0,
-          "x": 456,
-          "y": 52,
+          "x": 454,
+          "y": 46,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -3690,7 +3735,7 @@
           "persistentUuid": "096924e0-8c04-4266-bd58-fccc9822eb3b",
           "width": 0,
           "x": 81,
-          "y": 800,
+          "y": 785,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -4031,6 +4076,102 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 22,
+          "layer": "",
+          "locked": false,
+          "name": "lol",
+          "persistentUuid": "3f495133-3faa-4167-9be2-b657d4e1aceb",
+          "width": 208,
+          "x": 26,
+          "y": 619,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 95,
+          "layer": "",
+          "locked": false,
+          "name": "lol",
+          "persistentUuid": "d15da94e-cf14-4c66-9c33-632ecd57ac01",
+          "width": 64,
+          "x": 163,
+          "y": 543,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 180,
+          "layer": "",
+          "locked": false,
+          "name": "lol",
+          "persistentUuid": "20ea94c3-b14a-4ead-8e89-c40d5f4d1e3c",
+          "width": 64,
+          "x": 192,
+          "y": 600,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "lol",
+          "persistentUuid": "8b19ea47-0545-4658-b95c-254afd8ef92f",
+          "width": 290,
+          "x": -33,
+          "y": 706,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 104,
+          "layer": "",
+          "locked": false,
+          "name": "lol",
+          "persistentUuid": "c83e9fa7-f7d9-4003-83c3-8e25f434727a",
+          "width": 64,
+          "x": -5,
+          "y": 619,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 45,
+          "layer": "",
+          "locked": false,
+          "name": "lol",
+          "persistentUuid": "6730257b-f40c-474c-af6b-5eff13120ce6",
+          "width": 118,
+          "x": -26,
+          "y": 595,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -4142,7 +4283,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "levelName1",
           "smoothed": true,
@@ -4152,7 +4293,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 1",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4161,7 +4302,7 @@
           }
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "levelName2",
           "smoothed": true,
@@ -4171,7 +4312,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 2",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4268,7 +4409,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level Choose ",
-          "font": "",
+          "font": "plasdrip.ttf",
           "characterSize": 60,
           "color": {
             "b": 0,
@@ -4279,7 +4420,7 @@
         {
           "bold": false,
           "italic": false,
-          "name": "LevelChooseWhite",
+          "name": "LevelChooseRed",
           "smoothed": true,
           "tags": "",
           "type": "TextObject::Text",
@@ -4287,11 +4428,11 @@
           "variables": [],
           "behaviors": [],
           "string": "Level Choose",
-          "font": "",
+          "font": "plasdrip.ttf",
           "characterSize": 62,
           "color": {
-            "b": 255,
-            "g": 255,
+            "b": 0,
+            "g": 0,
             "r": 255
           }
         },
@@ -4345,7 +4486,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "levelname3",
           "smoothed": true,
@@ -4355,7 +4496,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 3",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4432,7 +4573,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "levelName4",
           "smoothed": true,
@@ -4442,7 +4583,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 4",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4519,7 +4660,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "Level5Name",
           "smoothed": true,
@@ -4529,7 +4670,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 5",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4606,7 +4747,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "Level6Name",
           "smoothed": true,
@@ -4616,7 +4757,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 6",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4643,7 +4784,7 @@
           ],
           "animations": [
             {
-              "name": "NewObject-1-kopie-1-kopie2",
+              "name": "1",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -4653,6 +4794,35 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewObject-1-kopie-1-kopie2-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "2-1-3 - kopie.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4820,7 +4990,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "levelName7",
           "smoothed": true,
@@ -4830,7 +5000,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 7",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4907,7 +5077,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "levelname8",
           "smoothed": true,
@@ -4917,7 +5087,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 8",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -4994,7 +5164,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "NewObject",
           "smoothed": true,
@@ -5004,7 +5174,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 9",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -5081,7 +5251,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "NewObject3",
           "smoothed": true,
@@ -5091,7 +5261,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 10",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -5351,7 +5521,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "NewObject4",
           "smoothed": true,
@@ -5361,7 +5531,7 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 11",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
@@ -5457,7 +5627,7 @@
           ]
         },
         {
-          "bold": false,
+          "bold": true,
           "italic": false,
           "name": "NewObject5",
           "smoothed": true,
@@ -5467,13 +5637,52 @@
           "variables": [],
           "behaviors": [],
           "string": "Level 12",
-          "font": "",
+          "font": "Albertsthal Typewriter.ttf",
           "characterSize": 40,
           "color": {
             "b": 0,
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "lol",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject6",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject6-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -5634,8 +5843,34 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Exit",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Exit",
+                "\"2\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         },
         {
@@ -10046,6 +10281,40 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "lol",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Exit",
+                "\"1\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -10136,7 +10405,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.202
+        "zoomFactor": 0.538
       },
       "objectsGroups": [],
       "variables": [
@@ -10155,8 +10424,8 @@
           "name": "Atka",
           "persistentUuid": "bb4d5388-114e-4e74-b070-689615a54af6",
           "width": 0,
-          "x": 179,
-          "y": 126,
+          "x": 253,
+          "y": 189,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10331,8 +10600,8 @@
           "name": "Zed",
           "persistentUuid": "58fb1c74-fbb0-4fdb-8e52-a58a2504e3c5",
           "width": 70,
-          "x": 1404,
-          "y": 231,
+          "x": 1377,
+          "y": 224,
           "zOrder": 33,
           "numberProperties": [],
           "stringProperties": [],
@@ -11500,6 +11769,45 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "you win!.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "venomousatka",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "SamvAtka1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "SamvAtka1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -67748,6 +68056,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject15",
+          "persistentUuid": "f45aa5ad-0de2-4500-a57d-28593c301a46",
+          "width": 0,
+          "x": 141,
+          "y": 149,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -70804,6 +71128,45 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewObject-1-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject15",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "area51gate2d",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "area 51 gate 2d.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",

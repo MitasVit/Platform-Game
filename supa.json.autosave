@@ -1736,6 +1736,70 @@
         "name": "dummy_target_float_text.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "james.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "james.mp3",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1 - kopie (3) - kopie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1 - kopie (3) - kopie.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "haloween dýne vektor. grafika.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haloween dýne vektor. grafika.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "haloweendnevektor-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "haloweendnevektor-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Albertsthal Typewriter.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Albertsthal Typewriter.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "baronkuffnerce.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "baronkuffnerce.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "BloodHand.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "BloodHand.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "plasdrip.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "plasdrip.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1785,7 +1849,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.466
+        "zoomFactor": 0.37
       },
       "objectsGroups": [],
       "variables": [],
@@ -1815,8 +1879,8 @@
           "name": "lol",
           "persistentUuid": "a4a8b66d-d0bb-44c7-96fb-7864c82f2d2b",
           "width": 0,
-          "x": 349,
-          "y": 29,
+          "x": 249,
+          "y": 19,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1847,8 +1911,8 @@
           "name": "NewObject5",
           "persistentUuid": "98a9ef0c-44b5-46f2-854e-d39df0baa446",
           "width": 0,
-          "x": 690,
-          "y": 298,
+          "x": 295,
+          "y": 294,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -1863,8 +1927,8 @@
           "name": "NewObject5",
           "persistentUuid": "dcea6b65-f911-4c5d-824a-13f8e7253a0e",
           "width": 0,
-          "x": 685,
-          "y": 458,
+          "x": 1168,
+          "y": 432,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -1879,8 +1943,8 @@
           "name": "nice32",
           "persistentUuid": "9ce27bbe-7ecb-4855-9989-10a62c0879af",
           "width": 360,
-          "x": 510,
-          "y": 330,
+          "x": 506,
+          "y": 325,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -1946,6 +2010,86 @@
           "x": 575,
           "y": 130,
           "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "nice32",
+          "persistentUuid": "5cb54f8d-cc69-401d-9f47-f960dbfac9ae",
+          "width": 0,
+          "x": 311,
+          "y": 145,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "3d4aa15e-ab08-4ce3-9d3a-ff01039b7f3e",
+          "width": 0,
+          "x": 1022,
+          "y": 287,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "e089bc7e-db69-4e38-acb7-8238b547356b",
+          "width": 0,
+          "x": 154,
+          "y": 160,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject11",
+          "persistentUuid": "a5889f91-33f7-413c-9067-6ce61960aedc",
+          "width": 0,
+          "x": 749,
+          "y": 126,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "68c40741-52e5-4b88-8b89-af455af5d424",
+          "width": 0,
+          "x": 513,
+          "y": 244,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2070,8 +2214,8 @@
           "variables": [],
           "behaviors": [],
           "string": "Platform Game",
-          "font": "",
-          "characterSize": 100,
+          "font": "Albertsthal Typewriter.ttf",
+          "characterSize": 115,
           "color": {
             "b": 255,
             "g": 255,
@@ -2236,7 +2380,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewObject-1.png",
+                      "image": "NewObject-1 - kopie (3) - kopie.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2507,6 +2651,121 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewObject10",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "haloweendnevektor",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject11",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Halloween edition",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          }
+        },
+        {
+          "additive": false,
+          "alphaParam": "Mutable",
+          "angleParam": "Mutable",
+          "blueParam": "Random",
+          "destroyWhenNoParticles": true,
+          "emissionEditionSimpleMode": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 90,
+          "emitterForceMax": 85,
+          "emitterForceMin": 45,
+          "emitterXDirection": 0,
+          "emitterYDirection": 1,
+          "emitterZDirection": 0,
+          "flow": 900,
+          "friction": 4,
+          "gravityEditionSimpleMode": true,
+          "greenParam": "Random",
+          "maxParticleNb": 1,
+          "name": "NewObject12",
+          "particleAlpha1": 204,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 51,
+          "particleBlue2": 85,
+          "particleEditionSimpleMode": true,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGravityZ": 0,
+          "particleGreen1": 51,
+          "particleGreen2": 65,
+          "particleLifeTimeMax": 2,
+          "particleLifeTimeMin": 0.6,
+          "particleRed1": 255,
+          "particleRed2": 238,
+          "particleSize1": 100,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "redParam": "Enabled",
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "sizeParam": "Mutable",
+          "tags": "",
+          "tank": -1,
+          "textureParticleName": "BloodHand.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -2536,6 +2795,20 @@
                 "",
                 "no",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "james.mp3",
+                "yes",
+                "70",
+                "1"
               ],
               "subInstructions": []
             }
@@ -8542,7 +8815,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "LOAD",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11310,7 +11583,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11368,6 +11641,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -11375,33 +11659,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -11459,6 +11718,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level1\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -11466,33 +11736,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level1\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -14147,6 +14392,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -14154,33 +14410,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -17544,6 +17775,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -17551,33 +17793,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -21357,6 +21574,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -21364,33 +21592,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -25045,7 +25248,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -25103,6 +25306,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -25110,33 +25324,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -28888,7 +29077,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -28946,6 +29135,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -28953,33 +29153,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -35373,6 +35548,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -35380,33 +35566,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -42967,6 +43128,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -42974,33 +43146,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -44139,7 +44286,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -48711,6 +48858,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -48718,33 +48876,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -54067,6 +54200,17 @@
                     "1"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level choose\""
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": [
@@ -54074,33 +54218,8 @@
                   "disabled": false,
                   "folded": false,
                   "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Timer"
-                      },
-                      "parameters": [
-                        "",
-                        "1",
-                        "\"cekani\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "PushScene"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Level choose\""
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
+                  "conditions": [],
+                  "actions": [],
                   "events": []
                 }
               ]
@@ -59614,7 +59733,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -60838,7 +60957,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
