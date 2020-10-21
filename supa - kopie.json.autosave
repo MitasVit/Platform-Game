@@ -1845,6 +1845,60 @@
         "name": "area 51 gate 2d.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Alien.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alien.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Alien-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Alien-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "area 51 car.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "area 51 car.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "area51car-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "area51car-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject17-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject17-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject17-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject17-1-0.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1894,7 +1948,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.442
+        "zoomFactor": 0.418
       },
       "objectsGroups": [],
       "variables": [],
@@ -3320,7 +3374,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.376
+        "zoomFactor": 0.346
       },
       "objectsGroups": [],
       "variables": [],
@@ -4016,14 +4070,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 1360,
+          "height": 1631,
           "layer": "pozadi",
           "locked": false,
           "name": "Background",
           "persistentUuid": "aa24d5c4-4f21-4f16-8f09-c7380829b23b",
-          "width": 1714,
-          "x": -211,
-          "y": -51,
+          "width": 2552,
+          "x": -511,
+          "y": -88,
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -10315,6 +10369,40 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextEntryObject::String"
+              },
+              "parameters": [
+                "lop",
+                "=",
+                "\"RT56HJZU879G\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "4"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -10382,18 +10470,18 @@
       ]
     },
     {
-      "b": 209,
+      "b": 46,
       "disableInputWhenNotFocused": true,
       "mangledName": "Level1",
       "name": "Level1",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 209,
+      "r": 136,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 46,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -10405,7 +10493,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.538
+        "zoomFactor": 0.226
       },
       "objectsGroups": [],
       "variables": [
@@ -10415,22 +10503,6 @@
         }
       ],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Atka",
-          "persistentUuid": "bb4d5388-114e-4e74-b070-689615a54af6",
-          "width": 0,
-          "x": 253,
-          "y": 189,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -10472,8 +10544,8 @@
           "name": "NewObject",
           "persistentUuid": "d14e1e14-6f49-4bed-b54a-7fda7d3bf060",
           "width": 0,
-          "x": 510,
-          "y": 373,
+          "x": 482,
+          "y": 383,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -10926,6 +10998,246 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Atka",
+          "persistentUuid": "14f8dcc7-a120-4b3c-a6a2-f4cf919a58f1",
+          "width": 0,
+          "x": 183,
+          "y": 216,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "d2b025ed-8688-47b8-bf49-66157b2744d0",
+          "width": 150,
+          "x": -150,
+          "y": 320,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "c8a89079-dbfa-4f50-ab0c-9e04f062ddd3",
+          "width": 150,
+          "x": 946,
+          "y": 904,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "3f1d9fd5-c850-4434-99a4-ed9aa1e44c0b",
+          "width": 150,
+          "x": 2427,
+          "y": -101,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "348fd001-85e7-49b7-b388-998f756b83e0",
+          "width": 150,
+          "x": 2471,
+          "y": 904,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "b595d7d2-eed0-4fc3-9298-285bc6b12031",
+          "width": 150,
+          "x": 3938,
+          "y": 539,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "d050a64b-e942-486d-bd11-d13ba20ce738",
+          "width": 150,
+          "x": 5909,
+          "y": 533,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "81d860dc-118e-487c-9078-fd07a8d6544d",
+          "width": 0,
+          "x": 545,
+          "y": 381,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "7c8b327d-b80a-45d6-b6d5-49fff4ca4f46",
+          "width": 0,
+          "x": 1657,
+          "y": 99,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject4",
+          "persistentUuid": "42ea9316-034a-487a-9be5-b6deaf818819",
+          "width": 0,
+          "x": 150,
+          "y": 191,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "9717007f-62db-4505-9862-a9bc7ed47d84",
+          "width": 0,
+          "x": 157,
+          "y": 182,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "d4b1bc80-df62-4f4d-9f33-489ae85acc7b",
+          "width": 0,
+          "x": 1727,
+          "y": 966,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "f9f293b1-e446-443d-b155-cde572cb9807",
+          "width": 0,
+          "x": 1792,
+          "y": 961,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "2655507b-80b6-4ee7-bc39-41a83e49defc",
+          "width": 0,
+          "x": 4341,
+          "y": 585,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "db39871f-42db-4dc4-a71a-0adce85f07fb",
+          "width": 0,
+          "x": 5276,
+          "y": 585,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -11065,6 +11377,62 @@
                           {
                             "x": 44,
                             "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 107,
+                            "y": 4
+                          },
+                          {
+                            "x": 137,
+                            "y": 64
+                          },
+                          {
+                            "x": 92,
+                            "y": 170
+                          },
+                          {
+                            "x": 48,
+                            "y": 170
+                          },
+                          {
+                            "x": 4,
+                            "y": 121
+                          },
+                          {
+                            "x": 49,
+                            "y": 3
                           }
                         ]
                       ]
@@ -11790,7 +12158,7 @@
           ]
         },
         {
-          "name": "venomousatka",
+          "name": "NewObject3",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -11798,7 +12166,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "SamvAtka1",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -11807,7 +12175,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "SamvAtka1-1.png",
+                      "image": "haloweendnevektor-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11827,6 +12195,44 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject4",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 1",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject5",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 1",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -13235,8 +13641,33 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "4"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
@@ -13313,18 +13744,18 @@
       ]
     },
     {
-      "b": 209,
+      "b": 80,
       "disableInputWhenNotFocused": true,
       "mangledName": "Level2",
       "name": "Level2",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 209,
+      "r": 194,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 80,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -13336,7 +13767,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.178
+        "zoomFactor": 0.466
       },
       "objectsGroups": [],
       "variables": [
@@ -13617,6 +14048,102 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "7b0d6b2f-c122-4c88-9031-80f53e23eb69",
+          "width": 150,
+          "x": 571,
+          "y": 327,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "d32d7141-39c7-4b8e-8df8-228886bb1492",
+          "width": 150,
+          "x": -1063,
+          "y": 1156,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "e4cca237-8de0-412f-a8cb-a2e572262731",
+          "width": 150,
+          "x": 829,
+          "y": 1144,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject3",
+          "persistentUuid": "30c5faf6-2f2e-4e03-b29d-b476c24bb58a",
+          "width": 150,
+          "x": 3921,
+          "y": 80,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "c9657ebc-21a7-41b6-bc27-cf0534aad94f",
+          "width": 0,
+          "x": -47,
+          "y": 185,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject6",
+          "persistentUuid": "186d2da4-464d-4f6d-a159-b59973e0320d",
+          "width": 0,
+          "x": -47,
+          "y": 173,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -13756,6 +14283,62 @@
                           {
                             "x": 45,
                             "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 106,
+                            "y": 3
+                          },
+                          {
+                            "x": 136,
+                            "y": 62
+                          },
+                          {
+                            "x": 91,
+                            "y": 169
+                          },
+                          {
+                            "x": 49,
+                            "y": 171
+                          },
+                          {
+                            "x": 2,
+                            "y": 124
+                          },
+                          {
+                            "x": 47,
+                            "y": 5
                           }
                         ]
                       ]
@@ -14578,6 +15161,83 @@
           "width": 32,
           "variables": [],
           "behaviors": []
+        },
+        {
+          "name": "NewObject3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject5",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 2",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject6",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 2",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -15952,6 +16612,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -16058,7 +16751,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.178
+        "zoomFactor": 0.37
       },
       "objectsGroups": [],
       "variables": [
@@ -16141,8 +16834,8 @@
           "name": "NewObject3",
           "persistentUuid": "b3ad84a2-b1d8-4484-9808-8f6468669170",
           "width": 0,
-          "x": 206,
-          "y": 173,
+          "x": 243,
+          "y": 106,
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -16979,6 +17672,118 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject6",
+          "persistentUuid": "1a6be825-a972-4101-93d5-060025d05bc8",
+          "width": 150,
+          "x": 877,
+          "y": 319,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Layer2",
+          "locked": false,
+          "name": "NewObject7",
+          "persistentUuid": "f052387e-95da-4c0b-871c-e713f949d75c",
+          "width": 0,
+          "x": 941,
+          "y": 403,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject7",
+          "persistentUuid": "b4949438-1159-42e3-9e29-8a047b86b759",
+          "width": 0,
+          "x": 3372,
+          "y": 1288,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject6",
+          "persistentUuid": "5e2e4593-08a2-43e2-99e0-9a10e83c3d94",
+          "width": 150,
+          "x": 3431,
+          "y": 660,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject6",
+          "persistentUuid": "df82c3af-90bd-4402-ae1b-b12995e94d55",
+          "width": 150,
+          "x": 1471,
+          "y": 782,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject6",
+          "persistentUuid": "213767a1-251e-4f05-8293-76f7bc1a0d10",
+          "width": 150,
+          "x": 4022,
+          "y": 1252,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject6",
+          "persistentUuid": "c727c07c-b804-4b27-ba3c-cc7493bf1047",
+          "width": 150,
+          "x": 5341,
+          "y": 1246,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -17118,6 +17923,62 @@
                           {
                             "x": 45,
                             "y": 57
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 108,
+                            "y": 6
+                          },
+                          {
+                            "x": 136,
+                            "y": 64
+                          },
+                          {
+                            "x": 91,
+                            "y": 169
+                          },
+                          {
+                            "x": 49,
+                            "y": 169
+                          },
+                          {
+                            "x": 4,
+                            "y": 123
+                          },
+                          {
+                            "x": 46,
+                            "y": 1
                           }
                         ]
                       ]
@@ -17830,8 +18691,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "In the CAVE.",
-          "font": "",
+          "string": "Level 3\nIn the CAVE.",
+          "font": "plasdrip.ttf",
           "characterSize": 60,
           "color": {
             "b": 255,
@@ -17958,6 +18819,58 @@
           "content": {
             "radius": 150,
             "color": "#f3eb94",
+            "debugMode": false,
+            "texture": ""
+          }
+        },
+        {
+          "name": "NewObject6",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject7",
+          "tags": "",
+          "type": "Lighting::LightObject",
+          "variables": [],
+          "behaviors": [],
+          "content": {
+            "radius": 150,
+            "color": "#f8e71c",
             "debugMode": false,
             "texture": ""
           }
@@ -19318,9 +20231,53 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 1702453632,
+          "ambientLightColorG": 9715856,
+          "ambientLightColorR": 1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Layer2",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "ambientLightColorB": 16,
           "ambientLightColorG": 7967408,
@@ -19416,7 +20373,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.154
+        "zoomFactor": 0.226
       },
       "objectsGroups": [],
       "variables": [
@@ -19483,8 +20440,8 @@
           "name": "Inthejungle",
           "persistentUuid": "79b0cc9b-c07d-4bb7-9057-ff37f6eed863",
           "width": 0,
-          "x": -5428,
-          "y": 344,
+          "x": -5450,
+          "y": 260,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -19502,22 +20459,6 @@
           "x": -5805,
           "y": 638,
           "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "bush",
-          "persistentUuid": "50911c52-09eb-4282-b93f-be1e887d3a90",
-          "width": 128,
-          "x": -4938,
-          "y": 519,
-          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -19737,22 +20678,6 @@
           "layer": "",
           "locked": false,
           "name": "bush",
-          "persistentUuid": "6b305436-3373-4d87-8e7f-21c8a071e7f1",
-          "width": 128,
-          "x": -2870,
-          "y": 494,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "bush",
           "persistentUuid": "f4e84ced-cb8c-47d4-9126-3c42464a1c4f",
           "width": 128,
           "x": -2405,
@@ -19957,22 +20882,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "bush",
-          "persistentUuid": "39c7138d-e849-4885-8235-5f9c71a202b5",
-          "width": 128,
-          "x": -168,
-          "y": 267,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 710,
           "layer": "",
           "locked": false,
@@ -20110,38 +21019,6 @@
           "x": 1745,
           "y": 721,
           "zOrder": 36,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "bush",
-          "persistentUuid": "4235da22-5303-4761-8d17-6e8571936c99",
-          "width": 128,
-          "x": 586.451,
-          "y": 383.531,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 128,
-          "layer": "",
-          "locked": false,
-          "name": "bush",
-          "persistentUuid": "33cb8835-3da8-4456-912b-c43e698b16a7",
-          "width": 128,
-          "x": 719.195,
-          "y": 480.876,
-          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20401,6 +21278,86 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject4",
+          "persistentUuid": "049e5cf6-843c-4fa8-a752-2b052781f4d9",
+          "width": 150,
+          "x": -4946,
+          "y": 525,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject4",
+          "persistentUuid": "83344f32-caf5-4312-85be-e22757fd29a7",
+          "width": 150,
+          "x": -2888,
+          "y": 493,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject4",
+          "persistentUuid": "451456f7-55fc-40d0-ae1b-595ff6881ae4",
+          "width": 150,
+          "x": -378,
+          "y": 265,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject4",
+          "persistentUuid": "fb081be6-f9fa-4e89-9592-c131d1439da8",
+          "width": 150,
+          "x": -99,
+          "y": 1006,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject4",
+          "persistentUuid": "f924645b-6e20-4fc6-bf6e-123d2018a73c",
+          "width": 150,
+          "x": 1903,
+          "y": 596,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -20540,6 +21497,62 @@
                           {
                             "x": 44,
                             "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 107,
+                            "y": 3
+                          },
+                          {
+                            "x": 139,
+                            "y": 66
+                          },
+                          {
+                            "x": 94,
+                            "y": 170
+                          },
+                          {
+                            "x": 53,
+                            "y": 170
+                          },
+                          {
+                            "x": 0,
+                            "y": 124
+                          },
+                          {
+                            "x": 49,
+                            "y": 5
                           }
                         ]
                       ]
@@ -21533,8 +22546,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "In the Jungle",
-          "font": "",
+          "string": "Level 4\nIn the Jungle",
+          "font": "plasdrip.ttf",
           "characterSize": 60,
           "color": {
             "b": 0,
@@ -21760,6 +22773,55 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "height": 32,
+          "name": "NewObject3",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "NewObject4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -23218,6 +24280,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -23316,7 +24411,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.058
+        "zoomFactor": 0.226
       },
       "objectsGroups": [],
       "variables": [
@@ -23933,6 +25028,118 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "persistentUuid": "0e1fc1c9-e7c6-458e-b8f7-1c77089ce712",
+          "width": 0,
+          "x": -1394,
+          "y": 740,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "persistentUuid": "51cb93f2-b1fc-490f-b03e-4537dfb0888b",
+          "width": 0,
+          "x": 2696,
+          "y": 1588,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "persistentUuid": "ecdd4e2c-3778-4a7d-b2b8-53a978e09db9",
+          "width": 0,
+          "x": 5555,
+          "y": 3515,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "persistentUuid": "61413e88-f775-4df4-81f4-5492aa5ff7f4",
+          "width": 0,
+          "x": 1658,
+          "y": 3516,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "persistentUuid": "ba88f748-c7a3-4551-a7a5-5496d3a24776",
+          "width": 0,
+          "x": 625,
+          "y": 1645,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject92",
+          "persistentUuid": "e1b68f3f-06b3-47d5-ad5b-4809ec73c40b",
+          "width": 0,
+          "x": -2682,
+          "y": 341,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject9",
+          "persistentUuid": "88391985-d2ec-406b-8cf7-cb8ec66d7fc1",
+          "width": 0,
+          "x": -2676,
+          "y": 329,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -24072,6 +25279,62 @@
                           {
                             "x": 46,
                             "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 107,
+                            "y": 3
+                          },
+                          {
+                            "x": 139,
+                            "y": 63
+                          },
+                          {
+                            "x": 93,
+                            "y": 170
+                          },
+                          {
+                            "x": 51,
+                            "y": 171
+                          },
+                          {
+                            "x": 3,
+                            "y": 122
+                          },
+                          {
+                            "x": 48,
+                            "y": 4
                           }
                         ]
                       ]
@@ -25492,6 +26755,83 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewObject8",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject92",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 5\nIn the sky",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject9",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 5\nIn the sky",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -25556,7 +26896,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26985,6 +28325,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -27094,7 +28467,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.082
+        "zoomFactor": 0.13
       },
       "objectsGroups": [
         {
@@ -27212,8 +28585,8 @@
           "name": "Text2",
           "persistentUuid": "96da1718-dd0d-49a7-91f6-7aba5105884b",
           "width": 0,
-          "x": -5316,
-          "y": 766,
+          "x": -5231,
+          "y": 697,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -27490,6 +28863,70 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "05783bfb-4256-4ec5-9ef4-5ab82aa42eae",
+          "width": 150,
+          "x": -4480,
+          "y": 973,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "2f0b5bdb-4fcb-4dec-92fd-bf388eae2be4",
+          "width": 150,
+          "x": -2065,
+          "y": 481,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "8e62d24c-eaca-4a5b-a451-cb9f79f3229b",
+          "width": 150,
+          "x": -126,
+          "y": 481,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject",
+          "persistentUuid": "7f8a1756-5385-4af7-acd0-15334e27f661",
+          "width": 150,
+          "x": 2374,
+          "y": 481,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -27629,6 +29066,62 @@
                           {
                             "x": 47,
                             "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 109,
+                            "y": 5
+                          },
+                          {
+                            "x": 137,
+                            "y": 62
+                          },
+                          {
+                            "x": 91,
+                            "y": 170
+                          },
+                          {
+                            "x": 52,
+                            "y": 172
+                          },
+                          {
+                            "x": 1,
+                            "y": 124
+                          },
+                          {
+                            "x": 46,
+                            "y": 4
                           }
                         ]
                       ]
@@ -29060,8 +30553,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "In the night",
-          "font": "",
+          "string": "Level 6\nIn the night",
+          "font": "plasdrip.ttf",
           "characterSize": 60,
           "color": {
             "b": 255,
@@ -29321,6 +30814,45 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -29385,7 +30917,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -30756,6 +32288,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -30865,7 +32430,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.106
+        "zoomFactor": 0.154
       },
       "objectsGroups": [
         {
@@ -33159,8 +34724,8 @@
           "name": "NewObject3",
           "persistentUuid": "bc3fcac7-3f70-45e9-8761-45610c5ea9c2",
           "width": 0,
-          "x": -6381,
-          "y": 462,
+          "x": -6851,
+          "y": 286,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -33421,6 +34986,182 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "626fbfdf-04ea-427e-88b5-1f92140230b1",
+          "width": 150,
+          "x": -6325,
+          "y": 567,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "d3f5ac8d-d02a-4485-910b-9fd9ad48a4fa",
+          "width": 150,
+          "x": -5618,
+          "y": 1033,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "966109e4-4e5f-4f7e-a0b7-7204515828ac",
+          "width": 150,
+          "x": -3411,
+          "y": 636,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "92a83572-6f6a-4bd5-8983-e46735c75ac4",
+          "width": 150,
+          "x": -952,
+          "y": -141,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "45a2ee7d-d8bf-463d-9432-17defd3da956",
+          "width": 150,
+          "x": 2740,
+          "y": -225,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "b02ca0cd-f15b-4319-b48c-d3d3fb78f570",
+          "width": 150,
+          "x": 7040,
+          "y": 259,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "4d9b4960-d2b8-4ee2-9098-0258d1fd5065",
+          "width": 150,
+          "x": 2609,
+          "y": 729,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "7f363d64-7ddb-43f7-a09e-8a88db94cb88",
+          "width": 150,
+          "x": 4786,
+          "y": 1406,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "5d38a689-c607-4cd0-9eff-55e3a0b832e0",
+          "width": 150,
+          "x": -775,
+          "y": 1690,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "1561f2b7-da97-4d8c-8162-16e768a4ef27",
+          "width": 150,
+          "x": -3652,
+          "y": 3001,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject5",
+          "persistentUuid": "3bb6be80-0a45-4ebd-b4c5-3a5b1ea53875",
+          "width": 150,
+          "x": 384,
+          "y": 3013,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -33560,6 +35301,62 @@
                           {
                             "x": 43,
                             "y": 56
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 107,
+                            "y": 4
+                          },
+                          {
+                            "x": 140,
+                            "y": 63
+                          },
+                          {
+                            "x": 91,
+                            "y": 170
+                          },
+                          {
+                            "x": 51,
+                            "y": 169
+                          },
+                          {
+                            "x": 2,
+                            "y": 125
+                          },
+                          {
+                            "x": 47,
+                            "y": 5
                           }
                         ]
                       ]
@@ -35695,8 +37492,8 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "In the Orange Treat \nUltra hard level",
-          "font": "",
+          "string": "Level 7\nIn the Orange Treat \nUltra hard level",
+          "font": "plasdrip.ttf",
           "characterSize": 60,
           "color": {
             "b": 194,
@@ -35734,6 +37531,45 @@
             "debugMode": false,
             "texture": ""
           }
+        },
+        {
+          "name": "NewObject5",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -35798,7 +37634,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -37142,7 +38978,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -37466,6 +39302,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -37514,23 +39383,23 @@
           "effects": []
         },
         {
-          "ambientLightColorB": 1702453632,
-          "ambientLightColorG": 1704576384,
-          "ambientLightColorR": 150995056,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "name": "superpředek",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
           "ambientLightColorB": 33,
           "ambientLightColorG": 121,
           "ambientLightColorR": 173,
           "followBaseLayerCamera": true,
           "isLightingLayer": true,
           "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453632,
+          "ambientLightColorG": 1704576384,
+          "ambientLightColorR": 150995056,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "superpředek",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -37594,7 +39463,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.082
+        "zoomFactor": 0.154
       },
       "objectsGroups": [
         {
@@ -38665,8 +40534,8 @@
           "name": "bloodtext",
           "persistentUuid": "3004820b-901a-40af-969b-96b47ae3c8da",
           "width": 0,
-          "x": -3621,
-          "y": 19,
+          "x": -3696,
+          "y": -85,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -40847,6 +42716,118 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "b1e5a986-f982-426c-950d-259b1b16b910",
+          "width": 150,
+          "x": -1871,
+          "y": 1709,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "2b9d8a5c-7268-4dfe-8587-4ad4ef0fa258",
+          "width": 150,
+          "x": -5712,
+          "y": 1221,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "03a9e031-630f-42ee-8bb4-23f8191c1389",
+          "width": 150,
+          "x": -4200,
+          "y": 563,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "496a082d-49a7-40c7-926d-011c6f698ce3",
+          "width": 150,
+          "x": 3453,
+          "y": 3045,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "70999169-0146-4a5a-9756-4d03123a160f",
+          "width": 150,
+          "x": 2983,
+          "y": 1504,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject10",
+          "persistentUuid": "bd2a8b8b-79d3-4fc0-945a-b55ed2a36826",
+          "width": 150,
+          "x": -1137.97,
+          "y": 3038.06,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext2",
+          "persistentUuid": "61982471-5b16-4eec-9510-05c4b4896165",
+          "width": 0,
+          "x": -3688,
+          "y": -102,
+          "zOrder": 98,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -40891,7 +42872,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "89212125482.png",
                       "points": [],
                       "originPoint": {
@@ -40905,7 +42886,34 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 111,
+                            "y": 52
+                          },
+                          {
+                            "x": 134,
+                            "y": 111
+                          },
+                          {
+                            "x": 89,
+                            "y": 216
+                          },
+                          {
+                            "x": 51,
+                            "y": 216
+                          },
+                          {
+                            "x": 1,
+                            "y": 168
+                          },
+                          {
+                            "x": 44,
+                            "y": 52
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -40959,6 +42967,62 @@
                           {
                             "x": 44,
                             "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 110,
+                            "y": 5
+                          },
+                          {
+                            "x": 138,
+                            "y": 64
+                          },
+                          {
+                            "x": 93,
+                            "y": 171
+                          },
+                          {
+                            "x": 50,
+                            "y": 172
+                          },
+                          {
+                            "x": 1,
+                            "y": 124
+                          },
+                          {
+                            "x": 50,
+                            "y": 3
                           }
                         ]
                       ]
@@ -42894,13 +44958,13 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "In the Blood Treat \nUltra hard",
-          "font": "",
+          "string": "Level 8\nIn the Blood Treat \nUltra hard",
+          "font": "plasdrip.ttf",
           "characterSize": 60,
           "color": {
-            "b": 5,
-            "g": 5,
-            "r": 5
+            "b": 0,
+            "g": 0,
+            "r": 0
           }
         },
         {
@@ -43305,6 +45369,64 @@
               ]
             }
           ]
+        },
+        {
+          "bold": true,
+          "italic": true,
+          "name": "bloodtext2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 8\nIn the Blood Treat \nUltra hard",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 248,
+            "g": 248,
+            "r": 248
+          }
+        },
+        {
+          "name": "NewObject10",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -43378,7 +45500,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -45077,6 +47199,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -45114,6 +47269,17 @@
           "effects": []
         },
         {
+          "ambientLightColorB": 6,
+          "ambientLightColorG": 6,
+          "ambientLightColorR": 143,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 6000080,
           "ambientLightColorR": 150995056,
@@ -45131,17 +47297,6 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "superpředek",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 6,
-          "ambientLightColorG": 6,
-          "ambientLightColorR": 143,
-          "followBaseLayerCamera": true,
-          "isLightingLayer": true,
-          "name": "Lighting",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -45194,7 +47349,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.178
+        "zoomFactor": 0.25
       },
       "objectsGroups": [
         {
@@ -45274,14 +47429,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 76,
+          "height": 121,
           "layer": "Layer",
           "locked": false,
           "name": "superduper",
           "persistentUuid": "372b2aa3-5a22-44bc-b072-6e05287bb26a",
-          "width": 76,
-          "x": 1267,
-          "y": 37,
+          "width": 121,
+          "x": 1229,
+          "y": 22,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -46646,6 +48801,134 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "ade83cee-130e-40df-91a4-00af9b8acd74",
+          "width": 150,
+          "x": -3157,
+          "y": 412,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "c774438e-f8ef-4af9-910f-ce9328dfce07",
+          "width": 150,
+          "x": -1918,
+          "y": 1449,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "72263295-69fb-4783-9842-fe0141d9841d",
+          "width": 150,
+          "x": 2588,
+          "y": 1269,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "c50bcd87-b8c2-46ad-ac95-f1073bc73fc4",
+          "width": 150,
+          "x": 478,
+          "y": 538,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "21487044-477e-4415-b7ae-98bbc56c24f9",
+          "width": 150,
+          "x": -4059,
+          "y": 1633,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "persistentUuid": "bf6dd5fc-4a30-4524-8636-3f8564536a7a",
+          "width": 150,
+          "x": -1219,
+          "y": 395,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject132",
+          "persistentUuid": "fedef1ca-85cf-44e0-92a2-113cbc27585c",
+          "width": 0,
+          "x": -5094,
+          "y": 280,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject13",
+          "persistentUuid": "6f31f723-664e-45a3-9f29-ca723c6e8c4d",
+          "width": 0,
+          "x": -5094,
+          "y": 274,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -46785,6 +49068,62 @@
                           {
                             "x": 45,
                             "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 110,
+                            "y": 5
+                          },
+                          {
+                            "x": 138,
+                            "y": 66
+                          },
+                          {
+                            "x": 94,
+                            "y": 170
+                          },
+                          {
+                            "x": 52,
+                            "y": 172
+                          },
+                          {
+                            "x": 1,
+                            "y": 121
+                          },
+                          {
+                            "x": 47,
+                            "y": 6
                           }
                         ]
                       ]
@@ -47101,7 +49440,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "superduper-1.png",
+                      "image": "dummy_target_float_text.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -49035,6 +51374,83 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewObject12",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject132",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 9",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject13",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 9",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -49108,7 +51524,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -50162,7 +52578,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -50703,8 +53119,41 @@
                 "value": "Montre"
               },
               "parameters": [
-                "platforma2",
+                "platformicka",
                 ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
               ],
               "subInstructions": []
             }
@@ -50747,6 +53196,17 @@
           "effects": []
         },
         {
+          "ambientLightColorB": 5,
+          "ambientLightColorG": 117,
+          "ambientLightColorR": 65,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 6000080,
           "ambientLightColorR": 150995056,
@@ -50764,17 +53224,6 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "superpředek",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 5,
-          "ambientLightColorG": 117,
-          "ambientLightColorR": 65,
-          "followBaseLayerCamera": true,
-          "isLightingLayer": true,
-          "name": "Lighting",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -50838,7 +53287,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.154
+        "zoomFactor": 0.634
       },
       "objectsGroups": [
         {
@@ -51804,9 +54253,73 @@
           "name": "NewObject13",
           "persistentUuid": "bd4afa6c-fe50-4a37-82b1-2618d97524a6",
           "width": 0,
-          "x": 605,
-          "y": 431,
+          "x": 576,
+          "y": 402,
           "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject18",
+          "persistentUuid": "6d047201-a242-4920-90d9-4539d3cdcbbb",
+          "width": 150,
+          "x": 907,
+          "y": 583,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject18",
+          "persistentUuid": "120ace67-6f90-4ca5-a2a0-58dd1ed22765",
+          "width": 150,
+          "x": 3334,
+          "y": 531,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject18",
+          "persistentUuid": "2aa9f9dd-9ef7-4713-be64-602615d7a074",
+          "width": 150,
+          "x": 6172,
+          "y": 538,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext2",
+          "persistentUuid": "1d537691-f020-49af-8529-7b3c314842fd",
+          "width": 0,
+          "x": 579,
+          "y": 401,
+          "zOrder": 57,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -51949,6 +54462,62 @@
                           {
                             "x": 43,
                             "y": 55
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 108,
+                            "y": 5
+                          },
+                          {
+                            "x": 137,
+                            "y": 66
+                          },
+                          {
+                            "x": 92,
+                            "y": 171
+                          },
+                          {
+                            "x": 52,
+                            "y": 171
+                          },
+                          {
+                            "x": 1,
+                            "y": 123
+                          },
+                          {
+                            "x": 48,
+                            "y": 5
                           }
                         ]
                       ]
@@ -54286,9 +56855,9 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "On the moon",
-          "font": "",
-          "characterSize": 40,
+          "string": "Level 10\nOn the moon",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
           "color": {
             "b": 255,
             "g": 255,
@@ -54377,6 +56946,64 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 10\nOn the moon",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "NewObject18",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -54450,7 +57077,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -55504,7 +58131,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -56102,8 +58729,33 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
@@ -56142,6 +58794,17 @@
           "effects": []
         },
         {
+          "ambientLightColorB": 128,
+          "ambientLightColorG": 128,
+          "ambientLightColorR": 128,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 6000080,
           "ambientLightColorR": 150995056,
@@ -56159,17 +58822,6 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "superpředek",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
-        },
-        {
-          "ambientLightColorB": 128,
-          "ambientLightColorG": 128,
-          "ambientLightColorR": 128,
-          "followBaseLayerCamera": true,
-          "isLightingLayer": true,
-          "name": "Lighting",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -56222,7 +58874,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.274
+        "zoomFactor": 0.226
       },
       "objectsGroups": [
         {
@@ -56276,8 +58928,8 @@
           "name": "Atka",
           "persistentUuid": "bb4d5388-114e-4e74-b070-689615a54af6",
           "width": 0,
-          "x": -6317,
-          "y": 172,
+          "x": -6282,
+          "y": 199,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -56906,6 +59558,102 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "193bf023-324e-4a41-a743-8f6afccbc7bf",
+          "width": 150,
+          "x": -4821,
+          "y": 330,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "03feba5a-f36a-4f0a-aa44-ba57a66893ed",
+          "width": 150,
+          "x": -2860,
+          "y": 330,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "3fbba518-f0be-4bdd-9a48-9656d261424b",
+          "width": 150,
+          "x": -110,
+          "y": 330,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "6ac65a98-0722-4ecf-96cc-bad5dadd5482",
+          "width": 150,
+          "x": -4130,
+          "y": -306,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext22",
+          "persistentUuid": "409eb4f5-fd61-400e-a8a4-e30d1c4984b3",
+          "width": 0,
+          "x": -5933,
+          "y": 187,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext2",
+          "persistentUuid": "184ed87e-d138-40c3-81c5-3abbca53615b",
+          "width": 0,
+          "x": -5929,
+          "y": 173,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -57045,6 +59793,62 @@
                           {
                             "x": 43,
                             "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 107,
+                            "y": 5
+                          },
+                          {
+                            "x": 141,
+                            "y": 62
+                          },
+                          {
+                            "x": 94,
+                            "y": 169
+                          },
+                          {
+                            "x": 54,
+                            "y": 171
+                          },
+                          {
+                            "x": 2,
+                            "y": 124
+                          },
+                          {
+                            "x": 48,
+                            "y": 6
                           }
                         ]
                       ]
@@ -59932,6 +62736,83 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext22",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 11",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 11",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "name": "NewObject20",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -60041,7 +62922,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": true,
+          "folded": false,
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -61884,6 +64765,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -62001,7 +64915,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.13
+        "zoomFactor": 0.514
       },
       "objectsGroups": [
         {
@@ -62135,8 +65049,8 @@
           "name": "Atka",
           "persistentUuid": "3707652e-cf7f-4a21-a68c-4db8e17ac1ea",
           "width": 0,
-          "x": 60,
-          "y": 413,
+          "x": 15,
+          "y": 512,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -62813,6 +65727,86 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "dd5a56a7-f802-4aa1-8a24-b4904a11452d",
+          "width": 150,
+          "x": 1333,
+          "y": 697,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "3ee4b8d5-53bf-44d0-a6d2-1ed28397ea93",
+          "width": 150,
+          "x": 4464,
+          "y": 659,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject20",
+          "persistentUuid": "36870dd5-c327-471a-8234-2c10fc328c25",
+          "width": 150,
+          "x": 5025,
+          "y": 1220,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext2",
+          "persistentUuid": "3304e10d-ca79-4198-8409-97ff0960ea1e",
+          "width": 0,
+          "x": 60,
+          "y": 456,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext22",
+          "persistentUuid": "b383a335-8ebf-405c-a011-c52cb1bc62e9",
+          "width": 0,
+          "x": 64,
+          "y": 452,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -62952,6 +65946,62 @@
                           {
                             "x": 43,
                             "y": 54
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SamvAtka1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 108,
+                            "y": 5
+                          },
+                          {
+                            "x": 137,
+                            "y": 62
+                          },
+                          {
+                            "x": 93,
+                            "y": 172
+                          },
+                          {
+                            "x": 53,
+                            "y": 173
+                          },
+                          {
+                            "x": 2,
+                            "y": 124
+                          },
+                          {
+                            "x": 50,
+                            "y": 5
                           }
                         ]
                       ]
@@ -65885,6 +68935,102 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NewObject20",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "haloweendnevektor-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext22",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 12",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 12",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject21",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -66042,6 +69188,20 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "cockatrice_playcard.mp3",
+                    "",
+                    "100",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "PushScene"
                   },
                   "parameters": [
@@ -66096,6 +69256,20 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "cockatrice_playcard.mp3",
+                    "",
+                    "100",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "PushScene"
                   },
                   "parameters": [
@@ -66147,6 +69321,20 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "cockatrice_playcard.mp3",
+                    "",
+                    "100",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
                 {
                   "type": {
                     "inverted": false,
@@ -67313,6 +70501,20 @@
                     "\"superpředek\""
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "cockatrice_playcard.mp3",
+                    "",
+                    "100",
+                    "1"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "events": []
@@ -67815,6 +71017,39 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarGlobal"
+              },
+              "parameters": [
+                "Ma jen pro LUKASE",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Atka",
+                "\"3\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -67932,7 +71167,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.346
+        "zoomFactor": 0.106
       },
       "objectsGroups": [
         {
@@ -67980,63 +71215,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 32,
-          "layer": "Layer",
-          "locked": false,
-          "name": "Healt",
-          "persistentUuid": "2667c07d-8fec-48b0-98f2-f7253269b72d",
-          "width": 128,
-          "x": 28,
-          "y": 9,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 121,
-          "layer": "Layer",
-          "locked": false,
-          "name": "superduper",
-          "persistentUuid": "372b2aa3-5a22-44bc-b072-6e05287bb26a",
-          "width": 121,
-          "x": 1234,
-          "y": 9,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 61,
           "layer": "",
           "locked": false,
           "name": "platforma2",
           "persistentUuid": "af6b07af-f005-46c3-96b8-d218562b05ad",
-          "width": 1966,
-          "x": -251,
-          "y": 728,
+          "width": 23193,
+          "x": -12831,
+          "y": 504,
           "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "spike",
-          "persistentUuid": "529322b5-a491-4119-a432-936b1f8ed925",
-          "width": 0,
-          "x": 854,
-          "y": 666,
-          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -68050,8 +71237,8 @@
           "name": "Atka",
           "persistentUuid": "48844502-1b9a-4be0-9170-386bc8fdf00d",
           "width": 0,
-          "x": 438,
-          "y": 466,
+          "x": -10311,
+          "y": 238,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -68063,12 +71250,220 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "NewObject15",
-          "persistentUuid": "f45aa5ad-0de2-4500-a57d-28593c301a46",
+          "name": "bloodtext22",
+          "persistentUuid": "c9ba5ac8-17e1-4bd7-8f57-51d18f9d9111",
           "width": 0,
-          "x": 141,
-          "y": 149,
+          "x": -10328,
+          "y": 125,
           "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "bloodtext2",
+          "persistentUuid": "c8a8db00-716e-4b22-b784-6fe43019b436",
+          "width": 0,
+          "x": -10325,
+          "y": 119,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject15",
+          "persistentUuid": "f4445ad3-2f96-4ab9-b7cb-f0687629aa9e",
+          "width": 0,
+          "x": -10054,
+          "y": -82,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject16",
+          "persistentUuid": "2a4d064f-24b0-4a2e-b644-f634c8f4540a",
+          "width": 0,
+          "x": -7308,
+          "y": 106,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1300,
+          "layer": "",
+          "locked": false,
+          "name": "cerna",
+          "persistentUuid": "a5f6a2ce-abca-462b-a2a1-1ab3752178f4",
+          "width": 142,
+          "x": -12963,
+          "y": -630,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike1",
+          "persistentUuid": "898f0162-a7a8-4081-bc7b-d0d31fb3e29b",
+          "width": 0,
+          "x": -12890,
+          "y": -679,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 121,
+          "layer": "",
+          "locked": false,
+          "name": "superduper",
+          "persistentUuid": "6b15bacf-393f-461e-9c5e-6e9fd7c3e47d",
+          "width": 121,
+          "x": 1220,
+          "y": 6,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Healt",
+          "persistentUuid": "071cc48d-e79b-4e0d-b64f-ff4cca7ba132",
+          "width": 128,
+          "x": 62,
+          "y": 42,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "31bd21c3-4b03-4c8c-bd6c-760ca148f4d5",
+          "width": 0,
+          "x": -5207,
+          "y": 441,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "643a1449-6e8e-41e3-bd80-8bcb6690701d",
+          "width": 0,
+          "x": -5145,
+          "y": 441,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "d6538ad7-d902-48ee-960a-8035758b3353",
+          "width": 0,
+          "x": -5084,
+          "y": 440,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "spike",
+          "persistentUuid": "f30610aa-08d3-4661-aed7-06f1070c433c",
+          "width": 0,
+          "x": -5023,
+          "y": 441,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "mimozenstan",
+          "persistentUuid": "267c24a1-19fc-49e0-9eb8-0cccb3abc7c9",
+          "width": 0,
+          "x": -3438,
+          "y": 102,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "mimozenstan_hitbox",
+          "persistentUuid": "5a3ae668-1e12-46ea-85e2-ed50e34aa19d",
+          "width": 0,
+          "x": -3645,
+          "y": -97,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -70578,7 +73973,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "name": "dvere",
@@ -71186,6 +74589,192 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext22",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 13\nIn area 51",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "bloodtext2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Level 13\nIn area 51",
+          "font": "plasdrip.ttf",
+          "characterSize": 60,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "name": "mimozenstan",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Alien",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Alien-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject16",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "area51car",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "area51car-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 367,
+                            "y": 8
+                          },
+                          {
+                            "x": 785,
+                            "y": 8
+                          },
+                          {
+                            "x": 780,
+                            "y": 299
+                          },
+                          {
+                            "x": 75,
+                            "y": 295
+                          },
+                          {
+                            "x": 92,
+                            "y": 140
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "mimozenstan_hitbox",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject17",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject17-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -71237,6 +74826,19 @@
               },
               "parameters": [
                 "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "NewObject16",
+                "-300",
+                "0",
                 "1"
               ],
               "subInstructions": []
@@ -73193,6 +76795,41 @@
             }
           ],
           "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "NewObject16",
+                "cerna",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "NewObject16",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
