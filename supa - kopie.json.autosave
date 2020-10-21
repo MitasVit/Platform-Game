@@ -1845,6 +1845,7 @@
         "name": "area 51 gate 2d.png",
         "smoothed": true,
         "userAdded": true
+<<<<<<< HEAD
       },
       {
         "alwaysLoaded": false,
@@ -1899,6 +1900,8 @@
         "name": "NewObject17-1-0.png",
         "smoothed": true,
         "userAdded": true
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       }
     ],
     "resourceFolders": []
@@ -1948,7 +1951,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.418
+=======
+        "zoomFactor": 0.442
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [],
@@ -3374,7 +3381,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.346
+=======
+        "zoomFactor": 0.376
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [],
@@ -4070,14 +4081,24 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
           "height": 1631,
+=======
+          "height": 1360,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "layer": "pozadi",
           "locked": false,
           "name": "Background",
           "persistentUuid": "aa24d5c4-4f21-4f16-8f09-c7380829b23b",
+<<<<<<< HEAD
           "width": 2552,
           "x": -511,
           "y": -88,
+=======
+          "width": 1714,
+          "x": -211,
+          "y": -51,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
@@ -10369,6 +10390,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -10403,6 +10425,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -10470,18 +10494,30 @@
       ]
     },
     {
+<<<<<<< HEAD
       "b": 46,
+=======
+      "b": 209,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       "disableInputWhenNotFocused": true,
       "mangledName": "Level1",
       "name": "Level1",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
+<<<<<<< HEAD
       "r": 136,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 46,
+=======
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -10493,7 +10529,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.226
+=======
+        "zoomFactor": 0.538
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [
@@ -10505,6 +10545,25 @@
       "instances": [
         {
           "angle": 0,
+<<<<<<< HEAD
+=======
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Atka",
+          "persistentUuid": "bb4d5388-114e-4e74-b070-689615a54af6",
+          "width": 0,
+          "x": 253,
+          "y": 189,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "customSize": true,
           "height": 293,
           "layer": "",
@@ -10544,8 +10603,13 @@
           "name": "NewObject",
           "persistentUuid": "d14e1e14-6f49-4bed-b54a-7fda7d3bf060",
           "width": 0,
+<<<<<<< HEAD
           "x": 482,
           "y": 383,
+=======
+          "x": 510,
+          "y": 373,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -10998,6 +11062,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -11238,6 +11303,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -11384,6 +11451,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -11440,6 +11508,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -12158,7 +12228,11 @@
           ]
         },
         {
+<<<<<<< HEAD
           "name": "NewObject3",
+=======
+          "name": "venomousatka",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -12166,7 +12240,11 @@
           "behaviors": [],
           "animations": [
             {
+<<<<<<< HEAD
               "name": "",
+=======
+              "name": "SamvAtka1",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -12175,7 +12253,11 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
+<<<<<<< HEAD
                       "image": "haloweendnevektor-1.png",
+=======
+                      "image": "SamvAtka1-1.png",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -12195,6 +12277,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "bold": false,
@@ -12233,6 +12316,8 @@
             "g": 255,
             "r": 255
           }
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -13641,6 +13726,7 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
+<<<<<<< HEAD
           "conditions": [
             {
               "type": {
@@ -13668,6 +13754,10 @@
               "subInstructions": []
             }
           ],
+=======
+          "conditions": [],
+          "actions": [],
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "events": []
         }
       ],
@@ -13744,18 +13834,30 @@
       ]
     },
     {
+<<<<<<< HEAD
       "b": 80,
+=======
+      "b": 209,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       "disableInputWhenNotFocused": true,
       "mangledName": "Level2",
       "name": "Level2",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
+<<<<<<< HEAD
       "r": 194,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 80,
+=======
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -13767,7 +13869,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.466
+=======
+        "zoomFactor": 0.178
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [
@@ -14048,6 +14154,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -14144,6 +14251,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -14290,6 +14399,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -14346,6 +14456,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -15161,6 +15273,7 @@
           "width": 32,
           "variables": [],
           "behaviors": []
+<<<<<<< HEAD
         },
         {
           "name": "NewObject3",
@@ -15238,6 +15351,8 @@
             "g": 255,
             "r": 255
           }
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -16612,6 +16727,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -16645,6 +16761,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -16751,7 +16869,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.37
+=======
+        "zoomFactor": 0.178
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [
@@ -16834,8 +16956,13 @@
           "name": "NewObject3",
           "persistentUuid": "b3ad84a2-b1d8-4484-9808-8f6468669170",
           "width": 0,
+<<<<<<< HEAD
           "x": 243,
           "y": 106,
+=======
+          "x": 206,
+          "y": 173,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -17672,6 +17799,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -17784,6 +17912,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -17930,6 +18060,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -17986,6 +18117,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -18691,8 +18824,13 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "Level 3\nIn the CAVE.",
           "font": "plasdrip.ttf",
+=======
+          "string": "In the CAVE.",
+          "font": "",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "characterSize": 60,
           "color": {
             "b": 255,
@@ -18822,6 +18960,7 @@
             "debugMode": false,
             "texture": ""
           }
+<<<<<<< HEAD
         },
         {
           "name": "NewObject6",
@@ -18874,6 +19013,8 @@
             "debugMode": false,
             "texture": ""
           }
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -20231,6 +20372,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -20264,10 +20406,13 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
         {
+<<<<<<< HEAD
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 9715856,
           "ambientLightColorR": 1,
@@ -20279,6 +20424,8 @@
           "effects": []
         },
         {
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 16,
           "ambientLightColorG": 7967408,
           "ambientLightColorR": 98,
@@ -20373,7 +20520,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.226
+=======
+        "zoomFactor": 0.154
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [
@@ -20440,8 +20591,13 @@
           "name": "Inthejungle",
           "persistentUuid": "79b0cc9b-c07d-4bb7-9057-ff37f6eed863",
           "width": 0,
+<<<<<<< HEAD
           "x": -5450,
           "y": 260,
+=======
+          "x": -5428,
+          "y": 344,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -20470,6 +20626,25 @@
           "layer": "",
           "locked": false,
           "name": "bush",
+<<<<<<< HEAD
+=======
+          "persistentUuid": "50911c52-09eb-4282-b93f-be1e887d3a90",
+          "width": 128,
+          "x": -4938,
+          "y": 519,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "persistentUuid": "28a3f7a6-f8e9-4351-a71f-af3206ba7ae3",
           "width": 128,
           "x": -5667,
@@ -20678,6 +20853,25 @@
           "layer": "",
           "locked": false,
           "name": "bush",
+<<<<<<< HEAD
+=======
+          "persistentUuid": "6b305436-3373-4d87-8e7f-21c8a071e7f1",
+          "width": 128,
+          "x": -2870,
+          "y": 494,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "persistentUuid": "f4e84ced-cb8c-47d4-9126-3c42464a1c4f",
           "width": 128,
           "x": -2405,
@@ -20882,6 +21076,25 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
+=======
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "39c7138d-e849-4885-8235-5f9c71a202b5",
+          "width": 128,
+          "x": -168,
+          "y": 267,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "height": 710,
           "layer": "",
           "locked": false,
@@ -21030,6 +21243,41 @@
           "layer": "",
           "locked": false,
           "name": "bush",
+<<<<<<< HEAD
+=======
+          "persistentUuid": "4235da22-5303-4761-8d17-6e8571936c99",
+          "width": 128,
+          "x": 586.451,
+          "y": 383.531,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+          "persistentUuid": "33cb8835-3da8-4456-912b-c43e698b16a7",
+          "width": 128,
+          "x": 719.195,
+          "y": 480.876,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "bush",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "persistentUuid": "f88fdc0c-b238-43a2-a9d5-24c0a5f27bc6",
           "width": 128,
           "x": 829.814,
@@ -21278,6 +21526,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -21358,6 +21607,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -21504,6 +21755,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -21560,6 +21812,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -22546,8 +22800,13 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "Level 4\nIn the Jungle",
           "font": "plasdrip.ttf",
+=======
+          "string": "In the Jungle",
+          "font": "",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "characterSize": 60,
           "color": {
             "b": 0,
@@ -22773,6 +23032,7 @@
             "g": 0,
             "r": 0
           }
+<<<<<<< HEAD
         },
         {
           "height": 32,
@@ -22822,6 +23082,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -24280,6 +24542,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -24313,6 +24576,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -24411,7 +24676,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.226
+=======
+        "zoomFactor": 0.058
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [],
       "variables": [
@@ -25028,6 +25297,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -25140,6 +25410,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -25286,6 +25558,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -25342,6 +25615,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -26755,6 +27030,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "name": "NewObject8",
@@ -26832,6 +27108,8 @@
             "g": 255,
             "r": 255
           }
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -26896,7 +27174,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -28325,6 +28607,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -28358,6 +28641,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -28467,7 +28752,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.13
+=======
+        "zoomFactor": 0.082
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -28585,8 +28874,13 @@
           "name": "Text2",
           "persistentUuid": "96da1718-dd0d-49a7-91f6-7aba5105884b",
           "width": 0,
+<<<<<<< HEAD
           "x": -5231,
           "y": 697,
+=======
+          "x": -5316,
+          "y": 766,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -28863,6 +29157,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -28927,6 +29222,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -29073,6 +29370,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -29129,6 +29427,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -30553,8 +30853,13 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "Level 6\nIn the night",
           "font": "plasdrip.ttf",
+=======
+          "string": "In the night",
+          "font": "",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "characterSize": 60,
           "color": {
             "b": 255,
@@ -30814,6 +31119,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "name": "NewObject",
@@ -30853,6 +31159,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -30917,7 +31225,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -32288,6 +32600,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -32321,6 +32634,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -32430,7 +32745,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.154
+=======
+        "zoomFactor": 0.106
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -34724,8 +35043,13 @@
           "name": "NewObject3",
           "persistentUuid": "bc3fcac7-3f70-45e9-8761-45610c5ea9c2",
           "width": 0,
+<<<<<<< HEAD
           "x": -6851,
           "y": 286,
+=======
+          "x": -6381,
+          "y": 462,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -34986,6 +35310,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -35162,6 +35487,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -35308,6 +35635,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -35364,6 +35692,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -37492,8 +37822,13 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "Level 7\nIn the Orange Treat \nUltra hard level",
           "font": "plasdrip.ttf",
+=======
+          "string": "In the Orange Treat \nUltra hard level",
+          "font": "",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "characterSize": 60,
           "color": {
             "b": 194,
@@ -37531,6 +37866,7 @@
             "debugMode": false,
             "texture": ""
           }
+<<<<<<< HEAD
         },
         {
           "name": "NewObject5",
@@ -37570,6 +37906,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -37634,7 +37972,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -38978,7 +39320,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -39302,6 +39648,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -39335,6 +39682,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -39383,6 +39732,7 @@
           "effects": []
         },
         {
+<<<<<<< HEAD
           "ambientLightColorB": 33,
           "ambientLightColorG": 121,
           "ambientLightColorR": 173,
@@ -39394,6 +39744,8 @@
           "effects": []
         },
         {
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 1704576384,
           "ambientLightColorR": 150995056,
@@ -39405,6 +39757,20 @@
           "effects": []
         },
         {
+<<<<<<< HEAD
+=======
+          "ambientLightColorB": 33,
+          "ambientLightColorG": 121,
+          "ambientLightColorR": 173,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 1333224832,
           "ambientLightColorR": 15,
@@ -39463,7 +39829,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.154
+=======
+        "zoomFactor": 0.082
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -40534,8 +40904,13 @@
           "name": "bloodtext",
           "persistentUuid": "3004820b-901a-40af-969b-96b47ae3c8da",
           "width": 0,
+<<<<<<< HEAD
           "x": -3696,
           "y": -85,
+=======
+          "x": -3621,
+          "y": 19,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -42716,6 +43091,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -42828,6 +43204,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -42872,7 +43250,11 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
+<<<<<<< HEAD
                       "hasCustomCollisionMask": true,
+=======
+                      "hasCustomCollisionMask": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                       "image": "89212125482.png",
                       "points": [],
                       "originPoint": {
@@ -42886,6 +43268,7 @@
                         "x": 0,
                         "y": 0
                       },
+<<<<<<< HEAD
                       "customCollisionMask": [
                         [
                           {
@@ -42914,6 +43297,9 @@
                           }
                         ]
                       ]
+=======
+                      "customCollisionMask": []
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                     }
                   ]
                 }
@@ -42974,6 +43360,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -43030,6 +43417,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -44958,6 +45347,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "Level 8\nIn the Blood Treat \nUltra hard",
           "font": "plasdrip.ttf",
           "characterSize": 60,
@@ -44965,6 +45355,15 @@
             "b": 0,
             "g": 0,
             "r": 0
+=======
+          "string": "In the Blood Treat \nUltra hard",
+          "font": "",
+          "characterSize": 60,
+          "color": {
+            "b": 5,
+            "g": 5,
+            "r": 5
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           }
         },
         {
@@ -45369,6 +45768,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "bold": true,
@@ -45427,6 +45827,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -45500,7 +45902,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -47199,6 +47605,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -47232,6 +47639,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -47269,6 +47678,7 @@
           "effects": []
         },
         {
+<<<<<<< HEAD
           "ambientLightColorB": 6,
           "ambientLightColorG": 6,
           "ambientLightColorR": 143,
@@ -47280,6 +47690,8 @@
           "effects": []
         },
         {
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 6000080,
           "ambientLightColorR": 150995056,
@@ -47300,6 +47712,20 @@
           "visibility": true,
           "cameras": [],
           "effects": []
+<<<<<<< HEAD
+=======
+        },
+        {
+          "ambientLightColorB": 6,
+          "ambientLightColorG": 6,
+          "ambientLightColorR": 143,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "behaviorsSharedData": [
@@ -47349,7 +47775,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.25
+=======
+        "zoomFactor": 0.178
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -47429,14 +47859,24 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
           "height": 121,
+=======
+          "height": 76,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "layer": "Layer",
           "locked": false,
           "name": "superduper",
           "persistentUuid": "372b2aa3-5a22-44bc-b072-6e05287bb26a",
+<<<<<<< HEAD
           "width": 121,
           "x": 1229,
           "y": 22,
+=======
+          "width": 76,
+          "x": 1267,
+          "y": 37,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -48801,6 +49241,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -48929,6 +49370,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -49075,6 +49518,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -49131,6 +49575,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -49440,7 +49886,11 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
+<<<<<<< HEAD
                       "image": "dummy_target_float_text.png",
+=======
+                      "image": "superduper-1.png",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -51374,6 +51824,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "name": "NewObject12",
@@ -51451,6 +51902,8 @@
             "g": 255,
             "r": 255
           }
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -51524,7 +51977,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -52578,7 +53035,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -53119,13 +53580,18 @@
                 "value": "Montre"
               },
               "parameters": [
+<<<<<<< HEAD
                 "platformicka",
+=======
+                "platforma2",
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                 ""
               ],
               "subInstructions": []
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -53159,6 +53625,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -53196,6 +53664,7 @@
           "effects": []
         },
         {
+<<<<<<< HEAD
           "ambientLightColorB": 5,
           "ambientLightColorG": 117,
           "ambientLightColorR": 65,
@@ -53207,6 +53676,8 @@
           "effects": []
         },
         {
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 6000080,
           "ambientLightColorR": 150995056,
@@ -53229,6 +53700,20 @@
           "effects": []
         },
         {
+<<<<<<< HEAD
+=======
+          "ambientLightColorB": 5,
+          "ambientLightColorG": 117,
+          "ambientLightColorR": 65,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 14264704,
           "ambientLightColorR": 1,
@@ -53287,7 +53772,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.634
+=======
+        "zoomFactor": 0.154
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -54253,12 +54742,18 @@
           "name": "NewObject13",
           "persistentUuid": "bd4afa6c-fe50-4a37-82b1-2618d97524a6",
           "width": 0,
+<<<<<<< HEAD
           "x": 576,
           "y": 402,
+=======
+          "x": 605,
+          "y": 431,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 55,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -54323,6 +54818,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -54469,6 +54966,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -54525,6 +55023,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -56855,9 +57355,15 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
+<<<<<<< HEAD
           "string": "Level 10\nOn the moon",
           "font": "plasdrip.ttf",
           "characterSize": 60,
+=======
+          "string": "On the moon",
+          "font": "",
+          "characterSize": 40,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "color": {
             "b": 255,
             "g": 255,
@@ -56946,6 +57452,7 @@
               "yGrabOffset": 0
             }
           ]
+<<<<<<< HEAD
         },
         {
           "bold": false,
@@ -57004,6 +57511,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -57077,7 +57586,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -58131,7 +58644,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": true,
+=======
+          "folded": false,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Pause Menu",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -58729,6 +59246,7 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
+<<<<<<< HEAD
           "conditions": [
             {
               "type": {
@@ -58756,6 +59274,10 @@
               "subInstructions": []
             }
           ],
+=======
+          "conditions": [],
+          "actions": [],
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "events": []
         }
       ],
@@ -58794,6 +59316,7 @@
           "effects": []
         },
         {
+<<<<<<< HEAD
           "ambientLightColorB": 128,
           "ambientLightColorG": 128,
           "ambientLightColorR": 128,
@@ -58805,6 +59328,8 @@
           "effects": []
         },
         {
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "ambientLightColorB": 1702453632,
           "ambientLightColorG": 6000080,
           "ambientLightColorR": 150995056,
@@ -58825,6 +59350,20 @@
           "visibility": true,
           "cameras": [],
           "effects": []
+<<<<<<< HEAD
+=======
+        },
+        {
+          "ambientLightColorB": 128,
+          "ambientLightColorG": 128,
+          "ambientLightColorR": 128,
+          "followBaseLayerCamera": true,
+          "isLightingLayer": true,
+          "name": "Lighting",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "behaviorsSharedData": [
@@ -58874,7 +59413,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.226
+=======
+        "zoomFactor": 0.274
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -58928,8 +59471,13 @@
           "name": "Atka",
           "persistentUuid": "bb4d5388-114e-4e74-b070-689615a54af6",
           "width": 0,
+<<<<<<< HEAD
           "x": -6282,
           "y": 199,
+=======
+          "x": -6317,
+          "y": 172,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -59558,6 +60106,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -59654,6 +60203,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -59800,6 +60351,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -59856,6 +60408,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -62736,6 +63290,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "bold": false,
@@ -62813,6 +63368,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -62922,7 +63479,11 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
+<<<<<<< HEAD
           "folded": false,
+=======
+          "folded": true,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "name": "Zacatek",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -64765,6 +65326,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -64798,6 +65360,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -64915,7 +65479,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.514
+=======
+        "zoomFactor": 0.13
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -65049,8 +65617,13 @@
           "name": "Atka",
           "persistentUuid": "3707652e-cf7f-4a21-a68c-4db8e17ac1ea",
           "width": 0,
+<<<<<<< HEAD
           "x": 15,
           "y": 512,
+=======
+          "x": 60,
+          "y": 413,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -65727,6 +66300,7 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+<<<<<<< HEAD
         },
         {
           "angle": 0,
@@ -65807,6 +66381,8 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "objects": [
@@ -65953,6 +66529,7 @@
                   ]
                 }
               ]
+<<<<<<< HEAD
             },
             {
               "name": "3",
@@ -66009,6 +66586,8 @@
                   ]
                 }
               ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ]
         },
@@ -68935,6 +69514,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "name": "NewObject20",
@@ -69031,6 +69611,8 @@
             "g": 0,
             "r": 0
           }
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -69188,6 +69770,7 @@
                 {
                   "type": {
                     "inverted": false,
+<<<<<<< HEAD
                     "value": "PlaySound"
                   },
                   "parameters": [
@@ -69202,6 +69785,8 @@
                 {
                   "type": {
                     "inverted": false,
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                     "value": "PushScene"
                   },
                   "parameters": [
@@ -69256,6 +69841,7 @@
                 {
                   "type": {
                     "inverted": false,
+<<<<<<< HEAD
                     "value": "PlaySound"
                   },
                   "parameters": [
@@ -69270,6 +69856,8 @@
                 {
                   "type": {
                     "inverted": false,
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                     "value": "PushScene"
                   },
                   "parameters": [
@@ -69324,6 +69912,7 @@
                 {
                   "type": {
                     "inverted": false,
+<<<<<<< HEAD
                     "value": "PlaySound"
                   },
                   "parameters": [
@@ -69338,6 +69927,8 @@
                 {
                   "type": {
                     "inverted": false,
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                     "value": "Delete"
                   },
                   "parameters": [
@@ -70501,6 +71092,7 @@
                     "\"superpředek\""
                   ],
                   "subInstructions": []
+<<<<<<< HEAD
                 },
                 {
                   "type": {
@@ -70515,6 +71107,8 @@
                     "1"
                   ],
                   "subInstructions": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
                 }
               ],
               "events": []
@@ -71017,6 +71611,7 @@
             }
           ],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -71050,6 +71645,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
@@ -71167,7 +71764,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
+<<<<<<< HEAD
         "zoomFactor": 0.106
+=======
+        "zoomFactor": 0.346
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
       },
       "objectsGroups": [
         {
@@ -71215,6 +71816,7 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
           "height": 61,
           "layer": "",
           "locked": false,
@@ -71336,6 +71938,17 @@
           "x": -12890,
           "y": -679,
           "zOrder": 16,
+=======
+          "height": 32,
+          "layer": "Layer",
+          "locked": false,
+          "name": "Healt",
+          "persistentUuid": "2667c07d-8fec-48b0-98f2-f7253269b72d",
+          "width": 128,
+          "x": 28,
+          "y": 9,
+          "zOrder": 5,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -71344,6 +71957,7 @@
           "angle": 0,
           "customSize": true,
           "height": 121,
+<<<<<<< HEAD
           "layer": "",
           "locked": false,
           "name": "superduper",
@@ -71352,6 +71966,16 @@
           "x": 1220,
           "y": 6,
           "zOrder": 17,
+=======
+          "layer": "Layer",
+          "locked": false,
+          "name": "superduper",
+          "persistentUuid": "372b2aa3-5a22-44bc-b072-6e05287bb26a",
+          "width": 121,
+          "x": 1234,
+          "y": 9,
+          "zOrder": 7,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -71359,6 +71983,7 @@
         {
           "angle": 0,
           "customSize": true,
+<<<<<<< HEAD
           "height": 32,
           "layer": "",
           "locked": false,
@@ -71416,6 +72041,17 @@
           "x": -5084,
           "y": 440,
           "zOrder": 21,
+=======
+          "height": 61,
+          "layer": "",
+          "locked": false,
+          "name": "platforma2",
+          "persistentUuid": "af6b07af-f005-46c3-96b8-d218562b05ad",
+          "width": 1966,
+          "x": -251,
+          "y": 728,
+          "zOrder": 8,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -71427,11 +72063,19 @@
           "layer": "",
           "locked": false,
           "name": "spike",
+<<<<<<< HEAD
           "persistentUuid": "f30610aa-08d3-4661-aed7-06f1070c433c",
           "width": 0,
           "x": -5023,
           "y": 441,
           "zOrder": 22,
+=======
+          "persistentUuid": "529322b5-a491-4119-a432-936b1f8ed925",
+          "width": 0,
+          "x": 854,
+          "y": 666,
+          "zOrder": 9,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -71442,12 +72086,21 @@
           "height": 0,
           "layer": "",
           "locked": false,
+<<<<<<< HEAD
           "name": "mimozenstan",
           "persistentUuid": "267c24a1-19fc-49e0-9eb8-0cccb3abc7c9",
           "width": 0,
           "x": -3438,
           "y": 102,
           "zOrder": 23,
+=======
+          "name": "Atka",
+          "persistentUuid": "48844502-1b9a-4be0-9170-386bc8fdf00d",
+          "width": 0,
+          "x": 438,
+          "y": 466,
+          "zOrder": 10,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -71458,12 +72111,21 @@
           "height": 0,
           "layer": "",
           "locked": false,
+<<<<<<< HEAD
           "name": "mimozenstan_hitbox",
           "persistentUuid": "5a3ae668-1e12-46ea-85e2-ed50e34aa19d",
           "width": 0,
           "x": -3645,
           "y": -97,
           "zOrder": 24,
+=======
+          "name": "NewObject15",
+          "persistentUuid": "f45aa5ad-0de2-4500-a57d-28593c301a46",
+          "width": 0,
+          "x": 141,
+          "y": 149,
+          "zOrder": 11,
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -73973,6 +74635,7 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
+<<<<<<< HEAD
           "behaviors": [
             {
               "name": "Platform",
@@ -73982,6 +74645,9 @@
               "yGrabOffset": 0
             }
           ]
+=======
+          "behaviors": []
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         },
         {
           "name": "dvere",
@@ -74589,6 +75255,7 @@
               ]
             }
           ]
+<<<<<<< HEAD
         },
         {
           "bold": false,
@@ -74775,6 +75442,8 @@
               ]
             }
           ]
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "events": [
@@ -74829,6 +75498,7 @@
                 "1"
               ],
               "subInstructions": []
+<<<<<<< HEAD
             },
             {
               "type": {
@@ -74842,6 +75512,8 @@
                 "1"
               ],
               "subInstructions": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
             }
           ],
           "events": [
@@ -76796,6 +77468,7 @@
           ],
           "actions": [],
           "events": []
+<<<<<<< HEAD
         },
         {
           "disabled": false,
@@ -76831,6 +77504,8 @@
             }
           ],
           "events": []
+=======
+>>>>>>> 1a769ed1b6d978fb4d5be8ebbd4b67f3b688be7a
         }
       ],
       "layers": [
